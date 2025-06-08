@@ -1,4 +1,4 @@
-# SimHub firmware for ESP32 and ESP8266
+# SimHub firmware for esp32-8048S050C CYD display, with working display
 
 Head over to the discord server to discuss this firmware: [DISCORD](https://discord.gg/CfvJySWTcE) 
 
